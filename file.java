@@ -1,6 +1,6 @@
 public class file {
 
     public static void main(String[] args) {
-        System.out.println("Kd");
+        System.out.println("Kdm");
     }
 }
